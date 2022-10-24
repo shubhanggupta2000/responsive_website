@@ -1,8 +1,8 @@
-# responsive_website
+# Responsive Website
 
-A simple i-Educate website that features and highlights
-This website is made from scratch using only basic html, css and javascript.
-This also has a feature of random pictures added using unsplash random url. This means that whenever the user reloads the website there will be different logos displayed everytime on it.
+* A simple i-Educate website that features and highlights importance of education.
+* This website is made from scratch using only basic html, css and javascript.
+* This also has a feature of random pictures added using unsplash-random-url. This means that whenever the user reloads the website there will be different logos displayed everytime on it.
 
 ## Below is a look of the website:
 
